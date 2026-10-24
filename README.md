@@ -1,16 +1,19 @@
-## Hi there 👋
+# Atichat Kangsamut
 
-<!--
-**atichatz/atichatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Project
 
-Here are some ideas to get you started:
+### [National Cuisine Classification](https://github.com/nithit-cypherX/cuisine-classification)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Applied NLP · LLM Prompt Engineering · Team Project**
+
+Collaborated with [Nithit Teeraworawit](https://github.com/nithit-cypherX) on a Python project that classifies recipes into six cuisine categories using ingredient lists.
+
+- Contributed to the implementation of an experimental pipeline comparing zero-shot prompting with dynamic few-shot prompting using examples retrieved from ChromaDB.
+- The team implementation compares three text representations (bag-of-words, sparse, and dense) and four example counts (0, 4, 8, and 16), covering 12 experimental conditions on the same 90-recipe test set.
+- The project includes prediction logging and evaluation with accuracy, macro F1, per-class F1, and confusion matrices.
+
+**Project stack:** Python, OpenAI API, ChromaDB, Sentence Transformers, pandas, scikit-learn, Matplotlib, Seaborn.
+
+**My role:** Implementation contributor in a two-person academic project.
+
+[View repository](https://github.com/nithit-cypherX/cuisine-classification) · [My commit history](https://github.com/nithit-cypherX/cuisine-classification/commits?author=atichatz)
