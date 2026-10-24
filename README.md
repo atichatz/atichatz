@@ -1,6 +1,22 @@
 # Atichat Kangsamut
 
-## Featured Project
+## Featured Projects
+
+### [Travel Style Segmentation & Drift Monitoring](https://github.com/DewPerawis/ITCS355-Final-PJ-6688012-6688121-6688193)
+
+**MLOps · Monitoring & Reliability · Team Project**
+
+Collaborated with Perawis Buranasing and Supitsara Tanasarnsukstid on a three-person ITCS355 project for segmenting travel preferences.
+
+- The team built a K-Means inference service that accepts 24 travel-category ratings and returns one of five segments, distance from the cluster center, an uncertainty flag, and the model version; Gaussian Mixture Models were evaluated as a comparison.
+- The project combines DVC and MLflow for reproducible training and model tracking with FastAPI, Docker, Azure, and GitHub Actions for deployment and CI/CD.
+- Monitoring and validation include offline input-drift checks, a recorded Azure Monitor alert, and a semantic canary used to detect a deliberate segment-mapping failure and verify recovery.
+
+**My team responsibilities:** Dashboards, drift checks, alerts, failure and recovery demonstration, cost reporting, and the model card, as documented in the project proposal.
+
+**Project stack:** Python, scikit-learn, FastAPI, Docker, DVC, MLflow, Azure, GitHub Actions.
+
+[View repository and saved demo evidence](https://github.com/DewPerawis/ITCS355-Final-PJ-6688012-6688121-6688193)
 
 ### [National Cuisine Classification](https://github.com/nithit-cypherX/cuisine-classification)
 
