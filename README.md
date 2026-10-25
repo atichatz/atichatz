@@ -18,6 +18,20 @@ Collaborated with Perawis Buranasing and Supitsara Tanasarnsukstid on a three-pe
 
 [View repository and saved demo evidence](https://github.com/DewPerawis/ITCS355-Final-PJ-6688012-6688121-6688193)
 
+### [Road Damage Detection](https://github.com/atichatz/road-damage-detection)
+
+**Computer Vision · Deep Learning · Team Project**
+
+Collaborated with Perawis Buranasing on a two-person project for **ITCS352 Introduction to Deep Learning**, detecting four road-damage categories in the RDD2022 Japan subset: longitudinal cracks, transverse cracks, alligator cracks, and potholes.
+
+- The team compared SSD MobileNetV3, Faster R-CNN ResNet-50 FPN, and YOLOv8s across four training runs, including a comparison of 640 px and 832 px input resolutions.
+- The selected YOLOv8s model achieved **mAP@0.5 = 0.562** and **mAP@0.5:0.95 = 0.265**, with reported inference time of approximately **11 ms per image** on an RTX 4060 Laptop GPU.
+- The project includes dataset preparation, exploratory analysis, saved evaluation results, and a Gradio application supporting image, video, and webcam inference, with a Docker demo.
+
+**Project stack:** Python, PyTorch, torchvision, Ultralytics YOLOv8, OpenCV, Gradio, Docker, TensorBoard.
+
+[View repository](https://github.com/atichatz/road-damage-detection) · [Report](https://github.com/atichatz/road-damage-detection/blob/main/docs/report-gr6.pdf) · [Presentation](https://github.com/atichatz/road-damage-detection/blob/main/docs/presentation-slide-gr6.pdf)
+
 ### [National Cuisine Classification](https://github.com/nithit-cypherX/cuisine-classification)
 
 **Applied NLP · LLM Prompt Engineering · Team Project**
