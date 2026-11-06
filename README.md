@@ -2,6 +2,18 @@
 
 ## Featured Projects
 
+### [Medical Severity Classification](https://github.com/DewPerawis/ITCS348-PJ1-Gr5)
+
+**NLP · Text Classification · Team Project**
+
+Collaborated with Perawis Buranasing and Supitsara Tanasarnsukstid on an academic project for ITCS348 Introduction to Natural Language Processing, classifying patient conversation text into low, medium and high severity.
+
+- The team compared TF-IDF with Logistic Regression, Linear SVM and Naive Bayes against a feedforward network using GloVe embeddings and a fine-tuned BERT model.
+- Experiments used 3,320 samples with a stratified 70/15/15 train/validation/test split. The README reports BERT test accuracy of 0.6313 and macro F1 of 0.5453.
+- The project includes model comparison, error analysis, computational cost comparisons and discussion of high-severity cases being misclassified as medium.
+
+[View repository](https://github.com/DewPerawis/ITCS348-PJ1-Gr5) · [Report](https://github.com/DewPerawis/ITCS348-PJ1-Gr5/blob/main/pj1_gr5_report.pdf) · [Presentation](https://github.com/DewPerawis/ITCS348-PJ1-Gr5/blob/main/pj1_gr5_presentation_slide.pdf)
+
 ### [Travel Style Segmentation & Drift Monitoring](https://github.com/DewPerawis/ITCS355-Final-PJ-6688012-6688121-6688193)
 
 **MLOps · Monitoring & Reliability · Team Project**
